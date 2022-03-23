@@ -1,0 +1,14 @@
+{
+  "name": "node-cli-demo",
+  "version": "1.0.0",
+  "main": "./bin/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^9.1.0",
+    "inquirer": "^8.2.1",
+    "listr": "^0.14.3",
+    "ncp": "^2.0.0",
+    "pkg-install": "^1.0.0"
+  }
+}
